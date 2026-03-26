@@ -6,4 +6,4 @@ The room focuses on identifying common web attacks through log analysis and pack
 
 The full walkthrough is included as a PDF file.
 
-`detecting-web-attacks-tryhackme.pdf`
+`github.com/OsmanDhaqane/detecting-web-attacks-tryhackme/blob/main/detecting-web-attacks-tryhackme.pdf`
